@@ -1,0 +1,17 @@
+{
+  "formatVersion": 1,
+  "packs": [
+    {
+      "id": "foods-pl",
+      "kind": "FOODS",
+      "version": 1,
+      "title": "Polish foods",
+      "foodCount": 227,
+      "license": "USDA FoodData Central SR Legacy: CC0 1.0. Polish names, portions and dishes: Good Lift.",
+      "attribution": "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central, SR Legacy (2018).",
+      "url": "https://github.com/StaryPasterz/good-lift-packs/releases/download/foods-pl-1/foods-pl-1.zip",
+      "sha256": "61473b6eae1d57f1ff6f9cb910e302cd35b8ee722a9df636a6dd4e4e583aa928",
+      "size": 46202
+    }
+  ]
+}
