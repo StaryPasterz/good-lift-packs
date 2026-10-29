@@ -13,6 +13,7 @@ it replaces an installed pack.
 | Pack | Contents | Sources and licence |
 |---|---|---|
 | `foods-pl` | Common foods with Polish names, aliases and household portions; Polish dishes computed from recipes | Values: USDA FoodData Central, SR Legacy (2018), CC0 1.0. A few Polish dairy products carry typical Polish label values where SR Legacy has no match, marked in each food's source. Names, portions and recipes: Apache License 2.0. |
+| `products-pl` | Packaged products sold in Poland, keyed by barcode, with label and package portions | Open Food Facts contributors, openfoodfacts.org. Open Database License (ODbL) 1.0; contents: Database Contents License (DbCL) 1.0. Filtered to products tagged for Poland with a valid barcode and complete macros; records whose energy contradicts their macros are left out. |
 
 Attribution: U.S. Department of Agriculture, Agricultural Research Service. FoodData Central,
 SR Legacy (2018). https://fdc.nal.usda.gov/

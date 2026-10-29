@@ -12,6 +12,18 @@
       "url": "https://github.com/StaryPasterz/good-lift-packs/releases/download/foods-pl-1/foods-pl-1.zip",
       "sha256": "61473b6eae1d57f1ff6f9cb910e302cd35b8ee722a9df636a6dd4e4e583aa928",
       "size": 46202
+    },
+    {
+      "id": "products-pl",
+      "kind": "FOODS",
+      "version": 1,
+      "title": "Polish products (barcodes)",
+      "foodCount": 23846,
+      "license": "Open Database License (ODbL) 1.0; individual contents: Database Contents License (DbCL) 1.0.",
+      "attribution": "Data from Open Food Facts contributors, openfoodfacts.org, filtered to products sold in Poland.",
+      "url": "https://github.com/StaryPasterz/good-lift-packs/releases/download/products-pl-1/products-pl-1.zip",
+      "sha256": "6d8694ac141509bc7a48f5dfb68a0640f66fdde6ff82969bcc485763b55d7292",
+      "size": 2529364
     }
   ]
 }
