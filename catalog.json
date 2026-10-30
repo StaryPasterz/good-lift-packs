@@ -24,6 +24,18 @@
       "url": "https://github.com/StaryPasterz/good-lift-packs/releases/download/products-pl-1/products-pl-1.zip",
       "sha256": "6d8694ac141509bc7a48f5dfb68a0640f66fdde6ff82969bcc485763b55d7292",
       "size": 2529364
+    },
+    {
+      "id": "vision-lite",
+      "kind": "VISION_LITE",
+      "version": 1,
+      "title": "Food photo recognition",
+      "foodCount": null,
+      "license": "Model: Apache License 2.0. Label table: Apache License 2.0.",
+      "attribution": "Google AIY Vision food classifier V1 (MobileNet V1), via Kaggle google/aiy.",
+      "url": "https://github.com/StaryPasterz/good-lift-packs/releases/download/vision-lite-1/vision-lite-1.zip",
+      "sha256": "cefd854fd31f9d972c466411e6073a4706adb96d8cb47d4264877928c18507ee",
+      "size": 19619113
     }
   ]
 }
