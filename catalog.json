@@ -4,14 +4,14 @@
     {
       "id": "foods-pl",
       "kind": "FOODS",
-      "version": 1,
+      "version": 2,
       "title": "Polish foods",
-      "foodCount": 227,
+      "foodCount": 247,
       "license": "USDA FoodData Central SR Legacy: CC0 1.0. Polish names, portions and dishes: Good Lift.",
       "attribution": "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central, SR Legacy (2018).",
-      "url": "https://github.com/StaryPasterz/good-lift-packs/releases/download/foods-pl-1/foods-pl-1.zip",
-      "sha256": "61473b6eae1d57f1ff6f9cb910e302cd35b8ee722a9df636a6dd4e4e583aa928",
-      "size": 46202
+      "url": "https://github.com/StaryPasterz/good-lift-packs/releases/download/foods-pl-2/foods-pl-2.zip",
+      "sha256": "65a7c60303e38e7109ae90a4082694219de1af695edd2f4996c8a8bb8d67a6ed",
+      "size": 52290
     },
     {
       "id": "products-pl",
@@ -28,14 +28,14 @@
     {
       "id": "vision-lite",
       "kind": "VISION_LITE",
-      "version": 1,
+      "version": 2,
       "title": "Food photo recognition",
       "foodCount": null,
       "license": "Model: Apache License 2.0. Label table: Apache License 2.0.",
       "attribution": "Google AIY Vision food classifier V1 (MobileNet V1), via Kaggle google/aiy.",
-      "url": "https://github.com/StaryPasterz/good-lift-packs/releases/download/vision-lite-1/vision-lite-1.zip",
-      "sha256": "cefd854fd31f9d972c466411e6073a4706adb96d8cb47d4264877928c18507ee",
-      "size": 19619113
+      "url": "https://github.com/StaryPasterz/good-lift-packs/releases/download/vision-lite-2/vision-lite-2.zip",
+      "sha256": "e385689a761015699d356f428066576f29002d4721fab3229475374b6fa6c57f",
+      "size": 19619340
     }
   ]
 }
